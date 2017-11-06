@@ -1,4 +1,4 @@
-A jsdoc plugin to prevent some comments to be parsed. 
+A jsdoc plugin to prevent comments to be parsed. 
 
 # How to use
 
