@@ -1,0 +1,12 @@
+{
+  "name": "jsdoc-prevent-comment-parse-plugin",
+  "version": "1.0.0",
+  "description": "A jsdoc plugin to prevent comments to be parsed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["jsdoc"],
+  "author": "Sebastián Gurin",
+  "license": "ISC"
+}
