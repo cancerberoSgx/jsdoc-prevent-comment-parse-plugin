@@ -18,7 +18,7 @@ There is no way to prevent comment parsing in jsdoc. ```@ignore``` won't prevent
 
 There are some things that jsdoc3 can't accomplish and now typescript / modern ides allows us to do typechecking with pure JavaScript validating types against the jsdocs. 
 
-For example, there is no way to declare a property of Class type in jsdoc but there is in typescript/vscode. For example, this is`valid in typescript but not in jsdoc: 
+For example, there is no way to declare a property of Class type in jsdoc but there is in typescript/vscode. For example, this is valid in typescript-jsdoc but not in jsdoc: 
 
 ```javascript
 // artificially documenting types of a native library that exports an object with properties are classes. 
